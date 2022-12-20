@@ -1,0 +1,31 @@
+
+body {
+    background-image: url("bg.jpg");
+}
+img {
+    border-radius: 50%;
+}
+p {
+    display: inline;
+}
+nav {
+margin: 100px 60% 24px 40%;    
+}
+
+
+
+
+/* a:link {
+    color: rgb(255, 255, 255);
+}
+
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+} */
